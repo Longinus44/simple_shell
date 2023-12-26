@@ -12,5 +12,6 @@
 #define MAX_ARGS 10
 #define MAX_PATH_LENGTH 1000
 #define MAX_COMMAND_LENGTH 100
+#define BUFFER_SIZE 128
 
 #endif
